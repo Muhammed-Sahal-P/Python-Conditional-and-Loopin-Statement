@@ -23,4 +23,10 @@ An example run of the program (numbers in bold are typed in by the user) Enter t
  Exercise 9: Write a program that prints the numbers from 1 to 10. But for multiples of three print "Fizz" instead of the number and for the multiple of five print "Buzz".
  For numbers which are multiples of both three and five print "FizzBuzz"
 
- Exercise 10 Write a program to print the following pattern: 5 4 3 2 1 4 3 2 1 3 2 1 2 1 1
+ Exercise 10 Write a program to print the following pattern:
+ 5 4 3 2 1
+ 4 3 2 1 
+ 3 2 1
+ 2 1 
+ 1
+ 
